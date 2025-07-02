@@ -44,8 +44,8 @@
 ## 📦 Installation
 
 # 1. Clone the repository
-git clone https://github.com/yourusername/document-keyword-extractor.git
-cd document-keyword-extractor
+git clone https://github.com/Nayan1442/-Single-Agent---Document-Keyword-Extractor.git
+cd Single-Agent---Document-Keyword-Extractor
 
 # 2. Create virtual environment (optional but recommended)
 python -m venv venv
