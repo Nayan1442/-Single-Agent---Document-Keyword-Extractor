@@ -1,0 +1,4 @@
+AI and machine learning are revolutionizing the way we interact with software. 
+A prompt is a way to instruct a language model to perform specific tasks. 
+Tokens help divide text into meaningful units for processing. 
+An agent can autonomously make decisions using these models.
