@@ -44,8 +44,8 @@
 ## 📦 Installation
 
 # 1. Clone the repository
-git clone https://github.com/yourusername/keyword-extraction-agent.git
-cd keyword-extraction-agent
+git clone https://github.com/yourusername/document-keyword-extractor.git
+cd document-keyword-extractor
 
 # 2. Create virtual environment (optional but recommended)
 python -m venv venv
